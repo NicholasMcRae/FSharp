@@ -1,0 +1,8 @@
+C:\Users\nickm\Desktop\Git Repos\FSharp\FSharp_27022016_2\FSharp_27022016_2\bin\Debug\FSharp_27022016_2.exe.config
+C:\Users\nickm\Desktop\Git Repos\FSharp\FSharp_27022016_2\FSharp_27022016_2\bin\Debug\FSharp_27022016_2.XML
+C:\Users\nickm\Desktop\Git Repos\FSharp\FSharp_27022016_2\FSharp_27022016_2\bin\Debug\FSharp_27022016_2.exe
+C:\Users\nickm\Desktop\Git Repos\FSharp\FSharp_27022016_2\FSharp_27022016_2\bin\Debug\FSharp_27022016_2.pdb
+C:\Users\nickm\Desktop\Git Repos\FSharp\FSharp_27022016_2\FSharp_27022016_2\bin\Debug\FSharp.Core.dll
+C:\Users\nickm\Desktop\Git Repos\FSharp\FSharp_27022016_2\FSharp_27022016_2\bin\Debug\FSharp.Core.xml
+C:\Users\nickm\Desktop\Git Repos\FSharp\FSharp_27022016_2\FSharp_27022016_2\obj\Debug\FSharp_27022016_2.exe
+C:\Users\nickm\Desktop\Git Repos\FSharp\FSharp_27022016_2\FSharp_27022016_2\obj\Debug\FSharp_27022016_2.pdb

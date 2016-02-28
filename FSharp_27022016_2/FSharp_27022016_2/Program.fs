@@ -1,7 +1,9 @@
-﻿// Learn more about F# at http://fsharp.org
-// See the 'F# Tutorial' project for more help.
+﻿// Second F# program, Feb 28 2017
 
-[<EntryPoint>]
-let main argv = 
-    printfn "%A" argv
-    0 // return an integer exit code
+open System
+    
+Console.WriteLine "Hello World"
+
+    
+
+        
