@@ -1,0 +1,1 @@
+A few years ago I thought it would be fun to take a look at F#. I had no practical reason to do so, but was interested in reading about a functional language. I didn't get too deep into it, but did toy around with it for an afternoon or two.
